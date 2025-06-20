@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+snake_venv/
+
+# Other
+.DS_Store
+*.log
+.history
+# Jupyter Notebook checkpoints
+
+.ipynb_checkpointsbin/q
+bin/qchat
+bin/qterm
